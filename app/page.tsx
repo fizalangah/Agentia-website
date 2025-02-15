@@ -125,7 +125,7 @@ export default function HomePage() {
               Get Started
             </a>
             <a
-              href="/documentation"
+              href=""
               className="inline-flex items-center justify-center px-8 py-3 text-base font-medium rounded-lg text-[#a1a1aa] border border-[#27272a] hover:text-white hover:border-white transition-colors duration-200"
             >
               View Documentation

@@ -7,25 +7,25 @@ import { FaGithub, FaTwitter, FaLinkedin, FaDiscord, FaEnvelope, FaMapMarkerAlt,
 const socialLinks = [
   {
     name: 'GitHub',
-    url: 'https://github.com/agentia-ai',
+    url: '',
     icon: <FaGithub className="w-6 h-6" />,
     color: 'hover:text-white'
   },
   {
     name: 'Twitter',
-    url: 'https://twitter.com/agentia_ai',
+    url: '',
     icon: <FaTwitter className="w-6 h-6" />,
     color: 'hover:text-white'
   },
   {
     name: 'LinkedIn',
-    url: 'https://linkedin.com/company/agentia-ai',
+    url: '',
     icon: <FaLinkedin className="w-6 h-6" />,
     color: 'hover:text-white'
   },
   {
     name: 'Discord',
-    url: 'https://discord.gg/agentia-ai',
+    url: '',
     icon: <FaDiscord className="w-6 h-6" />,
     color: 'hover:text-white'
   }
